@@ -1,0 +1,22 @@
+<style>
+body{
+	width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: flex-start;
+    font-family: "Montserrat";
+    flex-wrap: wrap;
+    color: #333;
+}
+#container{
+	width: 95%;
+}
+span{
+	padding: 2%;
+	display: flex;
+	flex-direction: column;
+	color:#607d8b;
+}
+
+</style>
