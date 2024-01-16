@@ -4,6 +4,7 @@
 		<ul>
 			<li><a href="<?php echo('maiusculo.php');?>">Letra maiúscula</a></li>
 			<li><a href="<?php echo('moeda.php');?>">Formatando moedas</a></li>
+			<li><a href="<?php echo('checkoutmercadopago.php');?>">Api do Mercado Pago</a></li>
 		</ul>
 		
 	</p>
